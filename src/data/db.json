@@ -1,0 +1,16 @@
+{
+  "product": [
+    {
+      "id": "973b",
+      "nameProduct": "Pera",
+      "categoryProduct": "fruta",
+      "amountProduct": "5"
+    },
+    {
+      "id": "7bd6",
+      "nameProduct": "Banana",
+      "categoryProduct": "Fruta",
+      "amountProduct": "2"
+    }
+  ]
+}
